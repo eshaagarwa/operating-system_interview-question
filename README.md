@@ -1,5 +1,7 @@
 # operating-system_interview-question
 
+<img width="300" alt="GFG" src= "https://github.com/eshaagarwa/operating-system_interview-question/blob/main/GeeksFor.png">
+
 ## Mastering Operating Systems: Last_minutes Interview Questions 🚀
 
 ### Explore the Core of Operating Systems
